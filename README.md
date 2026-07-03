@@ -1,6 +1,3 @@
-# Telegram-proxy-viewer
-پروژه Description Requests A simple, yet elegant, HTTP library Django The Web framework for perfectionists with deadlines Termux Termux - a terminal emulator application for Android OS
-
 # Telegram Proxy Viewer 🚀
 
 اسکریپت افزایش بازدید پست‌های تلگرام با استفاده از پروکسی‌های عمومی
@@ -17,3 +14,17 @@ pkg update && pkg upgrade -y
 pkg install python -y
 pip install requests
 python main.py
+```
+
+نحوه استفاده
+
+1. اسکریپت را اجرا کنید
+2. لینک پست تلگرام را وارد کنید (مثال: https://t.me/channelname/123)
+3. اسکریپت به صورت خودکار پروکسی‌ها را جمع‌آوری و تست می‌کند
+4. برای توقف از کلیدهای Ctrl+C استفاده کنید
+
+نکات امنیتی
+
+· این اسکریپت فقط برای مقاصد آموزشی است
+· استفاده بیش از حد ممکن است منجر به محدودیت IP شود
+· از پروکسی‌های خود برای افزایش امنیت استفاده کنید
