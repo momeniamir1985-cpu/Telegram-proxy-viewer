@@ -28,3 +28,10 @@ python main.py
 · این اسکریپت فقط برای مقاصد آموزشی است
 · استفاده بیش از حد ممکن است منجر به محدودیت IP شود
 · از پروکسی‌های خود برای افزایش امنیت استفاده کنید
+
+
+## ارتباط با ما 📱
+- **کانال تلگرام**: [@BotSorce](https://t.me/BotSorce)
+- **پشتیبانی**: در صورت داشتن سوال یا پیشنهاد، از طریق کانال با ما در ارتباط باشید.
+
+[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-blue?style=flat-square&logo=telegram)](https://t.me/BotSorce)
