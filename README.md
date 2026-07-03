@@ -16,4 +16,4 @@
 pkg update && pkg upgrade -y
 pkg install python -y
 pip install requests
-python proxy_viewer.py
+python main.py
