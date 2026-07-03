@@ -32,6 +32,6 @@ python main.py
 
 ## ارتباط با ما 📱
 - **کانال تلگرام**: [@BotSorce](https://t.me/BotSorce)
-- **پشتیبانی**: در صورت داشتن سوال یا پیشنهاد، از طریق کانال با ما در ارتباط باشید.
+- **پشتیبانی**: برای پرسش‌ها، پیشنهادات و گزارش باگ، از طریق کانال با ما در ارتباط باشید.
 
-[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-blue?style=flat-square&logo=telegram)](https://t.me/BotSorce)
+[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/BotSorce)
